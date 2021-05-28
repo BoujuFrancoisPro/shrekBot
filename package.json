@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ggis": "^1.1.5",
+    "imgdownloader": "^1.0.1",
+    "imglookalike": "^1.1.2",
+    "twitter": "^1.7.1"
+  }
+}
